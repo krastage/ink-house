@@ -1,4 +1,4 @@
-Pet project "Ink House" made by Marat Tureev.
+Pet project with adaptive "Ink House" made by Marat Tureev.
 
 Used technologies:
 1. HTML5
